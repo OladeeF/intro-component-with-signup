@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/intro-component-with-signup-form-master/intro-component-with-signup-form-master/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "intro-component-with-signup",
+		"liveServer.settings.port": 5501
+	}
+}
